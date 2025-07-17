@@ -5,7 +5,6 @@
       <ul>
       <li>Dev Software 👨‍💻</li>
       <li>Technology lover 💻 </li>
-      <li>my social networks ⬇ </li>
       </ul>
    </p>
 </div>
