@@ -1,5 +1,5 @@
 <div>
-   <H1>Hey, welcome!🥰</H1>
+   <H1>Hey, welcome!</H1>
 <H4>I'm Josué, 21 years old and a Full Stack Engineer  👇</H4>
    <p align="left">
       <ul>
@@ -16,6 +16,10 @@
 # 👩🏻‍💻 Josué Matos
 
 **`Desenvolvedor FullStack`**
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:josueematos15@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/josuematos01)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0000ff)](https://www.instagram.com/josueematos/)
 
 
 ### 🤖 Linguagens e Tecnologias
