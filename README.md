@@ -102,7 +102,7 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
+
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueAnalisysDeveloper&layout=compact&theme=radical" width="400" heigth="195"/> <img src="https://github-readme-stats.vercel.app/api?username=JosueAnalisysDeveloper&theme=radical&show_icons=true" width="400" heigth="195" />
